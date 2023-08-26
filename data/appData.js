@@ -4,7 +4,7 @@ module.exports = {
         loginPassword: "abc@123",
         loginIncorrectEmail: "setu@gmail.com",
         registerName: "Divya New",
-        registerNewEmail: "divya_newz@gamil.com",
+        registerNewEmail: "divya_pin@gmail.com",
         registerNewPassword: "abcdef@123",
         registerConfirmPassword: "abcdef@123",
         registerExistingName: "Divya",
